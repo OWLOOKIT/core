@@ -22,7 +22,7 @@
     "gitevents-meetup": "^0.1.0",
     "body-parser": "^1.14.1",
     "cors": "^2.7.1",
-    "express": "^4.13.3",
+    "express": "^4.13.4",
     "express-jwt": "^3.3.0",
     "gitevents-jobs": "0.0.1",
     "github": "^0.2.4",
