@@ -20,7 +20,7 @@
     "contributor": "^0.1.25",
     "debug": "^2.2.0",
     "gitevents-meetup": "^0.1.0",
-    "body-parser": "^1.14.1",
+    "body-parser": "^1.15.0",
     "cors": "^2.7.1",
     "express": "^4.13.3",
     "express-jwt": "^3.3.0",
