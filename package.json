@@ -46,7 +46,7 @@
     "snyk": "^1.8.4",
     "supertest": "^1.0.1",
     "tap-spec": "^4.1.1",
-    "tape": "^4.0.1"
+    "tape": "^4.5.1"
   },
   "contributors": [
     {
